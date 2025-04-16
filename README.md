@@ -21,7 +21,7 @@ Day-2: API Hacking
 API SEC : API Penetration Testing (https://university.apisec.ai/products/api-penetration-testing)
 Sections Completed: Introduction, Labsetup, API Recon
 ```
-Day-2: API Hacking + XSS Labs
+Day-3: API Hacking + XSS Labs
 ```Markdown
 XSS_Journey: https://docs.google.com/spreadsheets/d/1kpuxt0w5yoFjmkjprKdCJvghQ4-z7zF-GiAKuQsp2QM/edit?usp=sharing
 
