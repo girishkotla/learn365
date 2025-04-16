@@ -1,36 +1,16 @@
 # learn365
 My Bug Bounty Learning Journey
 
+Day-1: XSS
 ```markdown
-Day_Num | Topic | Reference Links
-1 |  | 
-2 |  | 
-3 |  | 
-4 |  | 
-5 |  | 
-6 |  | 
-7 |  | 
-8 |  | 
-9 |  | 
-10 |  | 
-11 |  | 
-12 |  | 
-13 |  | 
-14 |  | 
-15 |  | 
-16 |  | 
-17 |  | 
-18 |  | 
-19 |  | 
-20 |  | 
-21 |  | 
-22 |  | 
-23 |  | 
-24 |  | 
-25 |  | 
-26 |  | 
-27 |  | 
-28 |  | 
-29 |  | 
-30 |  | 
+XSS Labs : Portswigger | Reflected XSS | Stored XSS | DOM XSS
+XSS_Journey: https://docs.google.com/spreadsheets/d/1kpuxt0w5yoFjmkjprKdCJvghQ4-z7zF-GiAKuQsp2QM/edit?usp=sharing
+````
+
+Day-2: API Hacking
+```Markdown
+API SEC : API Penetration Testing (https://university.apisec.ai/products/api-penetration-testing)
+Sections Completed: Introduction, Labsetup, API Recon
 ```
+
+
