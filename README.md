@@ -15,7 +15,7 @@ Day-2: API Hacking + XSS Labs
 ```Markdown
 XSS_Journey: https://docs.google.com/spreadsheets/d/1kpuxt0w5yoFjmkjprKdCJvghQ4-z7zF-GiAKuQsp2QM/edit?usp=sharing
 
-### Labs Completed:
+# Labs Completed:
 Reflected DOM XSS
 Stored DOM XSS
 Reflected XSS into attribute with angle brackets HTML-encoded
