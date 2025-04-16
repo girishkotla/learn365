@@ -1,6 +1,7 @@
 # learn365
 My Bug Bounty Learning Journey
 
+```markdown
 Day_Num | Topic | Reference Links
 1 |  | 
 2 |  | 
@@ -32,3 +33,4 @@ Day_Num | Topic | Reference Links
 28 |  | 
 29 |  | 
 30 |  | 
+```
